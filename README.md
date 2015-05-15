@@ -14,7 +14,7 @@ npm install
 npm start
 ````
 
-1. Edit the index.html, main.js, and style.css file to complete the challenge
+1. Edit the index.html, main.js, and style.css file to complete the challenge. Images of the cards can be found in the cards directory.
 
 ##Note
 1. Feel free to use any online library
